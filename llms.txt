@@ -1,0 +1,8 @@
+# template-static-site
+
+> Fleet template: static site (hackt-com shape). Replace this file's content.
+
+## Optional docs
+
+- [canon.json](canon.json): machine-readable canon of the site
+- [.well-known/agent-card.json](.well-known/agent-card.json): agent-readable repo card
